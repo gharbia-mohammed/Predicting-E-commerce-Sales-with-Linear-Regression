@@ -21,12 +21,15 @@ NumPy-SciPy for Statistical analysis
 ## Key Insights
 <br><br>
 1- App usage is more strongly correlated with spending than website usage.
+<br><br>
 <img width="500" height="500" alt="Capture101" src="https://github.com/user-attachments/assets/1d6cd024-ec34-489c-9adc-f7e6092275eb" />
 
 2- Length of Membership is the most influential factor — loyal customers tend to spend more.
+<br><br>
 <img width="500" height="500" alt="102" src="https://github.com/user-attachments/assets/0ec0faa1-3f48-43c5-ac9b-bceb7b051d7c" />
 
 3- The model can be used to target high-value customers and improve personalized marketing strategies.
+<br><br>
 <img width="500" height="500" alt="103" src="https://github.com/user-attachments/assets/d9f49480-7aea-409e-b4a9-be6045e0417a" />
 
 
