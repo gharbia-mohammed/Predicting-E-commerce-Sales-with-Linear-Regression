@@ -4,6 +4,17 @@ This project aims to predict the yearly spending of e-commerce customers.Using L
 website usage, session length, and membership duration most strongly influence customer spending.
 The analysis helps e-commerce companies understand key drivers of customer value, 
 optimize marketing strategies, and enhance customer retention.
+<br><br>
+
+## Objectives
+
+1- Understand the relationship between different user behaviors and yearly spending.
+
+2- Identify which features are most correlated with higher spending.
+
+3- Build and evaluate a linear regression model to predict Yearly Amount Spent.
+
+4- Assess model performance using standard error metrics (MAE, MSE, RMSE).
 
 <br><br>
 
