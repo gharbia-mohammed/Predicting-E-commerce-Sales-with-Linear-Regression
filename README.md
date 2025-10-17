@@ -8,9 +8,13 @@ most strongly influence customer spending.The analysis helps e-commerce companie
 ## Tools and Libraries
 
 Python
-Pandas : Data handling and inspection
-Seaborn : Matplotlib for Data visualization
+<br><br>
+Pandas for Data handling and inspection
+<br><br>
+Seaborn for Matplotlib for Data visualization
+<br><br>
 Scikit-learn–Model for training and evaluation
+<br><br>
 NumPy-SciPy for Statistical analysis
 
 
