@@ -21,3 +21,9 @@ NumPy-SciPy for Statistical analysis
 2- Length of Membership is the most influential factor — loyal customers tend to spend more.
 
 3- The model can be used to target high-value customers and improve personalized marketing strategies.
+
+
+
+## Conclusion
+
+The linear regression model effectively predicts yearly customer spending and identifies the behavioral factors that drive revenue.
